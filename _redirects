@@ -1,3 +1,0 @@
-# http and https need separate rules if you don’t force_ssl!
-http://admin.unishare.app/* https://hub.unishare.app/#admin:splat 301!
-https://admin.unishare.app/* https://hub.unishare.app/#admin:splat 301!
